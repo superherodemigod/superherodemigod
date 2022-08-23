@@ -33,11 +33,3 @@ I’m always focusing on product quality first and professional codebase impleme
 I've enough ability to get fully involved in any projects regarding my skills.
 
 I always will be happy to discuss any challenging project.
-
-
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently spare time to learn Unity, Maya. to make what? I don't know. <g-emoji class="g-emoji" alias="laughing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png">😆</g-emoji></li>
-<li><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Looking forward to more partnership with talents</li>
-<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2022 Goals: Contribute more to building web3 infra over the internet.</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact :- I like running. <g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃&zwj;♂</g-emoji><g-emoji class="g-emoji" alias="walking_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png">🚶&zwj;♂️</g-emoji><g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃&zwj;♂️</g-emoji><g-emoji class="g-emoji" alias="walking_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6-2642.png">🚶&zwj;♂️</g-emoji><g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃&zwj;♂️</g-emoji></li>
-</ul>
