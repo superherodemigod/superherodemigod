@@ -1,17 +1,35 @@
 Full-Stack & Blockchain Developer
 
-Enthusiastic and creative Web | Mobile | Blockchain Developer with diverse knowledge in this field. I like to build amazing and interesting things that matter. Have years of hands-on experience efficiently coding websites and mobile applications using modern Javascript, Typescript, Python, PHP, Ruby frameworks, and beautiful UI frameworks. Over the last 3 years, I mainly focused on Blockchain technologies - developing Front-end with Web3 / ether.js /Polkadot/Solidity, Token and Coin development. 
+I'm a skilled full-stack engineer with 8 years of professional and extensive experience in web development.
+Especially, I have a great experience in Blockchain and a solid experience in PHP/Laravel/Codeigniter and Python/Django/Flask. 
+And, from 6 years ago, I started learning modern JavaScript frameworks such as React.js, Vue.js, and Angular.
+I have been working on a range of products and clients from several countries all over the world, inside the IT team remotely most of the time.
 
-Have a look at my technology stack:
+Major Skills:
 
-Frontend: React, Redux, Angular, Vue, Vuex, JavaScript, HTML, CSS, Bootstrap, Typescript, NextJS
+Programming Languages:
+- JavaScript / TypeScript  / Python / PHP / Rust / Solidity
 
-Backend: Node.js, Laravel, Django, .NET, Golang
+Blockchain:
+- NFT Marketplace / Yield Farming / Defi / Dex / Dapp / Polkadot / ICO
+- TOKENS on Solana and Ethereum Network using *Rust and Solidity*
 
-Mobile App: React Native, Ionic, Swift, Android Java
+Backend Frameworks:
+- Laravel / Codeigniter / Django / DRF(Django Rest Framework) / Flask
+- MySQL / PostgreSQL / MSSQL / MongoDB / DynamoDB
 
-Blockchains: Ethereum (Solidity, Web3, Truffle, ERC20, ICO), Tron (TRX, TRC10, TRC20 Dapps), Binance Chain
+Frontend Frameworks & Libraries:
+- React.js / Next.js / Gatsby.js / Vue.js / Nuxt.js / AngularJS, 2-13
 
-Databases: MongoDB, Redis, PostgreSQL
+I have sufficient experience in
+- HTML5 / SCSS / CSS3 / SVG / SASS / LESS
+- TDD / Jest / Mocha / Enzyme / Cypress / Pytest / Eslint / Prettier
+- Material UI / Bootstrap / Semantic UI / Ant Design / Tailwind CSS, etc
+- CircleCI / Github Actions / Bitbucket Pipelines for CI/CD
+- GraphQL / REST APIs / gRPC, etc
+- Amazon Web Services (EC2 / S3 / Lambda / Elastic Beanstalk / Elastic Search /DynamoDB )
 
-DevOps: AWS EC2, SES, S3, CloudFront, Linux, PM2
+I’m always focusing on product quality first and professional codebase implementing OOP at a high level.
+I've enough ability to get fully involved in any projects regarding my skills.
+
+I always will be happy to discuss any challenging project.
