@@ -1,35 +1,12 @@
-Full-Stack & Blockchain Developer
+Welcome to my Github profile! 
 
-I'm a skilled full-stack engineer with 8 years of professional and extensive experience in web development.
-Especially, I have a great experience in Blockchain and a solid experience in PHP/Laravel/Codeigniter and Python/Django/Flask. 
-And, from 6 years ago, I started learning modern JavaScript frameworks such as React.js, Vue.js, and Angular.
-I have been working on a range of products and clients from several countries all over the world, inside the IT team remotely most of the time.
+I am a Senior Full-Stack & Blockchain Developer with extensive experience in designing, developing, and maintaining complex blockchain-based applications and systems. 
+My expertise includes developing smart contracts, decentralized applications (DApps), and other blockchain-based solutions on various platforms such as Ethereum, Hyperledger, and Corda.
 
-Major Skills:
+In addition to my blockchain skills, I have a strong background in full-stack development, including front-end and back-end development, database management, and server-side scripting. 
+I am proficient in programming languages such as JavaScript, Python, Solidity, and Java, and have experience working with various frameworks and libraries.
 
-Programming Languages:
-- JavaScript / TypeScript  / Python / PHP / Rust / Solidity
+On my Github profile, you will find a collection of my projects that showcase my skills and expertise. I am passionate about open-source development and believe in contributing to the community. 
+Therefore, I have made some of my projects open-source, and you are welcome to use them and contribute to them.
 
-Blockchain:
-- NFT Marketplace / Yield Farming / Defi / Dex / Dapp / Polkadot / ICO
-- TOKENS on Solana and Ethereum Network using *Rust and Solidity*
-
-Backend Frameworks:
-- Laravel / Codeigniter / Django / DRF(Django Rest Framework) / Flask
-- MySQL / PostgreSQL / MSSQL / MongoDB / DynamoDB
-
-Frontend Frameworks & Libraries:
-- React.js / Next.js / Gatsby.js / Vue.js / Nuxt.js / AngularJS, 2-13
-
-I have sufficient experience in
-- HTML5 / SCSS / CSS3 / SVG / SASS / LESS
-- TDD / Jest / Mocha / Enzyme / Cypress / Pytest / Eslint / Prettier
-- Material UI / Bootstrap / Semantic UI / Ant Design / Tailwind CSS, etc
-- CircleCI / Github Actions / Bitbucket Pipelines for CI/CD
-- GraphQL / REST APIs / gRPC, etc
-- Amazon Web Services (EC2 / S3 / Lambda / Elastic Beanstalk / Elastic Search /DynamoDB )
-
-I’m always focusing on product quality first and professional codebase implementing OOP at a high level.
-I've enough ability to get fully involved in any projects regarding my skills.
-
-I always will be happy to discuss any challenging project.
+Feel free to explore my repositories and reach out to me if you have any questions or would like to collaborate on a project.
