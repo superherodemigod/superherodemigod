@@ -1,12 +1,13 @@
 Welcome to my Github profile! 
 
-I am a Senior Full-Stack & Blockchain Developer with extensive experience in designing, developing, and maintaining complex blockchain-based applications and systems. 
-My expertise includes developing smart contracts, decentralized applications (DApps), and other blockchain-based solutions on various platforms such as Ethereum, Hyperledger, and Corda.
+Full Stack Web Frontend and Backend Developer
+With over 10 years of experience, combining a firm foundation of knowledge and experience working on massive projects, I have been building and publishing numerous projects, specializing in using the following skillsets
 
-In addition to my blockchain skills, I have a strong background in full-stack development, including front-end and back-end development, database management, and server-side scripting. 
-I am proficient in programming languages such as JavaScript, Python, Solidity, and Java, and have experience working with various frameworks and libraries.
+• Web: React, Angular, Node.js, PHP/Laravel/Yii/Magento, .Net, Java, AWS Serverless Computing
+• Databases: SQL (MySQL, PostgreSQL, MS SQL and NoSQL),MongoDB, Dynamo, Firebase
+• System and Software Architecture: Micro-services Architecture, Multi-tenant Architectures, Multi-tier Architecture
+• DevOps: AWS, Google Cloud, CI/CD, Containers - Docker/Kubernetes
+• Mobile: React Native, Flutter
 
-On my Github profile, you will find a collection of my projects that showcase my skills and expertise. I am passionate about open-source development and believe in contributing to the community. 
-Therefore, I have made some of my projects open-source, and you are welcome to use them and contribute to them.
-
-Feel free to explore my repositories and reach out to me if you have any questions or would like to collaborate on a project.
+While I have worked with many large corporations, I find that my most satisfying experiences are working with smaller companies and entrepreneurs. 
+I have a reputation for going up and beyond what is asked for and as a result, have a lot of repeating projects and clients.
