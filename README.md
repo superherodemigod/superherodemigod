@@ -1,6 +1,7 @@
 Welcome to my Github profile! 
 
 Full Stack Web Frontend and Backend Developer
+
 With over 10 years of experience, combining a firm foundation of knowledge and experience working on massive projects, I have been building and publishing numerous projects, specializing in using the following skillsets
 
 • Web: React, Angular, Node.js, PHP/Laravel/Yii/Magento, .Net, Java, AWS Serverless Computing
