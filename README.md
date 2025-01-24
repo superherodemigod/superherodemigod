@@ -7,6 +7,7 @@ During my university years, I pursued a degree in Computer Science, and after gr
 This newfound inspiration led me to transition into the blockchain ecosystem as a developer. The environment was significantly different from my previous experiences, brimming with fresh and innovative ideas. Over the past four years, I have worked as a developer and lead engineer in the crypto space, successfully spearheading various project for multiple companies.
 
 My key skills in the crypto ecosystem include:
+
 ✔️ Frontend: React, Redux, And Design, TailwindCSS, MUI, Next.js, Jotai, Storybook
 
 ✔️ Backend : Node.js, Express.js, GraphQL, Prisma
