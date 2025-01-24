@@ -8,12 +8,19 @@ This newfound inspiration led me to transition into the blockchain ecosystem as 
 
 My key skills in the crypto ecosystem include:
 ✔️ Frontend: React, Redux, And Design, TailwindCSS, MUI, Next.js, Jotai, Storybook
+
 ✔️ Backend : Node.js, Express.js, GraphQL, Prisma
+
 ✔️ Databases : MySQL, PostgreSQL, MongoDB
+
 ✔️ Blockchain Technologies: Solidity, Rust, Solana, Func, Web3.js, Ethers.js, Wagmi/Viem, RainbowKit, Web3-Onboard
+
 ✔️ Blockchain Ecosystems: EVM Layer 1, Layer 2, Solana, Tron, Sidechain, The Open Network
+
 ✔️ Development Frameworks: Remix/Ganache, Hardhat/Truffle, Aptos, Anchor
+
 ✔️ Project Management: Git, Github, Jira, Kanban, Agile
+
 ✔️ Cloud Service: AWS EC2, AWS Lambda
 
 I am eager to further enhance my skills and experience in this ever-evolving decentralized world. I am always open to new ideas and ready to collaborate to create a meaningful impact.
